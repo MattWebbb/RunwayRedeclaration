@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data>
+    <airports>
+        <airport>
+            <name>Heathrow</name>
+            <code>LHA</code>
+            <runways>
+                <runway>
+                    <length>3658</length>
+                    <heading>27</heading>
+                    <position>L</position>
+                    <left>
+                        <tora>3660</tora>
+                        <toda>3660</toda>
+                        <asda>3660</asda>
+                        <lda>3660</lda>
+                        <threshold>0</threshold>
+                        <clearway>0</clearway>
+                        <stopway>0</stopway>
+                    </left>
+                    <right>
+                        <tora>3660</tora>
+                        <toda>3660</toda>
+                        <asda>3660</asda>
+                        <lda>3660</lda>
+                        <threshold>307</threshold>
+                        <clearway>0</clearway>
+                        <stopway>0</stopway>
+                    </right>
+                </runway>
+                <runway>
+                    <length>3902</length>
+                    <heading>27</heading>
+                    <position>R</position>
+                    <left>
+                        <tora>3902</tora>
+                        <toda>3902</toda>
+                        <asda>3902</asda>
+                        <lda>3595</lda>
+                        <threshold>306</threshold>
+                        <clearway>300</clearway>
+                        <stopway>200</stopway>
+                    </left>
+                    <right>
+                        <tora>3884</tora>
+                        <toda>3962</toda>
+                        <asda>3884</asda>
+                        <lda>3884</lda>
+                        <threshold>0</threshold>
+                        <clearway>0</clearway>
+                        <stopway>0</stopway>
+                    </right>
+                </runway>
+            </runways>
+        </airport>
+    </airports>
+    <obstacles>
+        <obstacle>
+            <name>Airbus A380</name>
+            <width>80</width>
+            <height>24</height>
+        </obstacle>
+        <obstacle>
+            <name>Boeing 787</name>
+            <width>60</width>
+            <height>18</height>
+        </obstacle>
+        <obstacle>
+            <name>Boeing 777</name>
+            <width>65</width>
+            <height>18</height>
+        </obstacle>
+        <obstacle>
+            <name>Boeing 747</name>
+            <width>68</width>
+            <height>19</height>
+        </obstacle>
+        <obstacle>
+            <name>Airbus A350</name>
+            <width>65</width>
+            <height>17</height>
+        </obstacle>
+        <obstacle>
+            <name>Airbus A320</name>
+            <width>36</width>
+            <height>12</height>
+        </obstacle>
+    </obstacles>
+</data>
